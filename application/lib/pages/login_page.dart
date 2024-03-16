@@ -135,7 +135,7 @@ class _LoginPageState extends State<LoginPage> {
                     style: AppText.header,
                   ),
                   Text(
-                    "ระบบนำทางในชุมชนล่ามช้าง",
+                    "ระบบแลกเปลี่ยนสินค้าในชุมชน",
                     style: AppText.subtitle,
                   ),
                 ],
